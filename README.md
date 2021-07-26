@@ -3,6 +3,7 @@ I am a BI & Data Analyst from Colombia
 - 📈 I have been working the las 4 years with data, KPI's and Dashboards
 - 🌱 Developing my learning path in Data Science
 <br>
+
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/camilo-fernando-duque-ruiz)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/cfduke)
