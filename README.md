@@ -1,8 +1,8 @@
 ### Hi to all! 👋
-I am a Data & AI Specialist and Product & Agent Specialist from Colombia.
-- 📈 With a background bridging technical data engineering and strategic product management, I have extensive experience working with data analytics, BI, KPI development, and executive dashboards.
-- 🤖 My recent work focuses on orchestrating multi-agent systems, RAG architectures, synthetic data generation, and machine learning pipelines to automate complex workflows.
-- 🌱 I am currently deepening my expertise in Generative AI, MLOps, and managing machine learning projects.
+I am a Data Scientist & AI Specialist from Colombia.
+- 📈 With a background bridging technical data engineering and strategic product management, I have extensive experience in exploratory data analysis (EDA), statistical modeling, and developing robust BI dashboards.
+- 🤖 Within the Data Science field, my work focuses on optimizing neural networks, building machine learning pipelines, applying clustering algorithms, and orchestrating multi-agent systems and RAG architectures to automate complex workflows.
+- 🌱 I am continuously advancing my Data Science learning path, deepening my expertise in Generative AI, MLOps, and managing applied machine learning projects.
 <br>
 
 ## Connect with me
